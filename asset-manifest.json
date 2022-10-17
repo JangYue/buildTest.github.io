@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/buildTest.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/buildTest.github.io/static/js/main.3129ad73.js",
+    "static/js/787.d0ac22ec.chunk.js": "/buildTest.github.io/static/js/787.d0ac22ec.chunk.js",
+    "static/media/logo.svg": "/buildTest.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/buildTest.github.io/index.html",
+    "main.073c9b0a.css.map": "/buildTest.github.io/static/css/main.073c9b0a.css.map",
+    "main.3129ad73.js.map": "/buildTest.github.io/static/js/main.3129ad73.js.map",
+    "787.d0ac22ec.chunk.js.map": "/buildTest.github.io/static/js/787.d0ac22ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3129ad73.js"
+  ]
+}
